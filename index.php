@@ -11,6 +11,8 @@ require  'vendor/autoload.php';
 
 include 'modeLauncher.php';
 
+echo $html;
+
 if($verbe){
-    echo $html;
+
 }
